@@ -4,4 +4,4 @@
 - Ubuntu 16.04
 
 ## 2. 目錄
-- [第二講：初識SLAM]()
+- [第二講：初識SLAM](https://github.com/gitleej/SLAM_Book_2/tree/main/ch2)
