@@ -5,3 +5,5 @@
 
 ## 2. 目錄
 - [第二講：初識SLAM](https://github.com/gitleej/SLAM_Book_2/tree/main/ch2)
+- [第三講：三維空間剛體運動](https://github.com/gitleej/SLAM_Book_2/tree/main/ch3)
+    - [學習使用Eigen](https://github.com/gitleej/SLAM_Book_2/tree/main/ch3/useEigen)
