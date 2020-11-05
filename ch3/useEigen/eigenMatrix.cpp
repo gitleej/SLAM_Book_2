@@ -101,6 +101,6 @@ int main(int argc, char **argv) {
     x = matrix_NN.ldlt().solve(v_Nd);
     cout << "time of normal inverse is " << (clock() - time_start) * 1000 / (double) CLOCKS_PER_SEC << " ms." << endl;
     cout << "x = " << x.transpose() << endl;
-    
+
     return 0;
 }
