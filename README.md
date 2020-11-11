@@ -9,6 +9,6 @@
     - [实践：Eigen](https://github.com/gitleej/SLAM_Book_2/tree/main/ch3/useEigen)
     - [实践：Eigen几何模块](https://github.com/gitleej/SLAM_Book_2/tree/main/ch3)
         - [Eigen几何模块的数据演示](https://github.com/gitleej/SLAM_Book_2/tree/main/ch3/useGeometry)
-	- [实际的坐标变换例子]()
-    - [可视化演示]()
-	- [显示运动轨迹]()
+	- [实际的坐标变换例子](https://github.com/gitleej/SLAM_Book_2/tree/main/ch3/examples/coordinateTransform)
+    - 可视化演示
+	- [显示运动轨迹](https://github.com/gitleej/SLAM_Book_2/tree/main/ch3/examples/plotTrajectory)
