@@ -12,4 +12,3 @@
 	- [实际的坐标变换例子](https://github.com/gitleej/SLAM_Book_2/tree/main/ch3/examples/coordinateTransform)
     - 可视化演示
 	- [显示运动轨迹](https://github.com/gitleej/SLAM_Book_2/tree/main/ch3/examples/plotTrajectory)
-	- [test]()
